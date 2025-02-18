@@ -85,8 +85,6 @@ Prize objects are created for every hackaton separately.
 
 ## Endpoints
 
----
-
 ### User Authentication & Registration
 - **Register User**  
   - **Endpoint**: `POST /api/auth/register`  
